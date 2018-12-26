@@ -1,10 +1,9 @@
+Research Question
+Where, based on population density, median age, and median housing value, will be the last region in San Diego to be affected by the zombie apocalypse?
 
-This is your group repository for your final project for COGS108. This repostory is private, including to other students in the class, but visible to all COGS108 instructors.
+Underlying Assumptions:
+"The Rules" are an important part of any zombie apocalypse, because every series seems to have different parameters governing their zombies. Our rules are quite simple, partially for simplicity's sake and partially to fit a zombie outbreak to the SIR model for infectious diseases.
 
-We have uploaded your Project Proposal here, and will provide comments and feedback on it here, as an issue. In the meantime, you are welcome and encouraged to use this repository to get started working on your project. 
-
-This repository will be frozen on the due date - at 11:59pm on Thursday, March 22nd, 2018.
-
-Make sure you have a notebook called 'FinalProject.ipynb' present in this repository by the due date. 
-
-Your final project will be graded based solely on that project notebook - make sure it has everything included and displayed (with code outputs) to evaluate your project. 
+1. You become a zombie 24 hours after you are bitten by a zombie.
+2. Zombies can only be killed by people, i.e. they do not die of old age or starvation.
+3. Zombies cannot be revived. Once they are dead, they are dead.
